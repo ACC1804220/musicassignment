@@ -33,16 +33,15 @@ nav a:hover {color: #C0C0C0;}
 		  padding-top: 20px;}
 
 table {width: 430px;
-	   height: 400px;}
+	   height: 405px;
+	   background-image: linear-gradient(to bottom right, #FFFDFA, #FEF6FE, #FFF3E0)}
+	   
 
-
-table, th, td {background-color: #FFFFFF;
-			  margin: auto;
-			  padding-top: 20px;
+table, th, td {padding-top: 20px;
 			  vertical-align: top;
 			  padding-left: 10px;}
 
-.table1 {border-color: #000000;
+.table1 {border-color: none;
 		margin: auto;
 		vertical-align: center;
 		padding-top: 20px;
@@ -51,7 +50,8 @@ table, th, td {background-color: #FFFFFF;
 .send {padding-right: 20px;
 		padding-bottom: 20px;}
 
-.body {font-family: "Segoe Print", Arial, sans-serif;}
+.body {font-family: "Segoe Print", Arial, sans-serif;
+	   background-image: linear-gradient(to bottom left, #FFFDFA, #FEF6FE, #FFF3E0);}
 
 .div {border: 2px solid #000000;
 	 height: 500px;
