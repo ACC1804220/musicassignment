@@ -42,7 +42,8 @@ table, th, td {background-color: #FFFFFF;
 			  vertical-align: top;
 			  padding-left: 10px;}
 
-.table1 {margin: auto;
+.table1 {border-color: #000000;
+		margin: auto;
 		vertical-align: center;
 		padding-top: 20px;
 		padding-left: 10px;}
@@ -66,3 +67,4 @@ table, th, td {background-color: #FFFFFF;
 
 main {background-image: url(background.png);
 		 		background-repeat: no-repeat;}
+
