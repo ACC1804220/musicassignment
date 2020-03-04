@@ -1,3 +1,5 @@
+*{box-sizing: border-box;}
+
 nav a {text-decoration: none;}
 
 nav a:link {color: #000000;}
@@ -31,7 +33,7 @@ nav a:hover {color: #C0C0C0;}
 		  padding-top: 20px;}
 
 table {width: 430px;
-	   height: 410px;}
+	   height: 400px;}
 
 
 table, th, td {background-color: #FFFFFF;
